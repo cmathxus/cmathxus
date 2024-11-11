@@ -8,7 +8,7 @@ Python
 
 ### 👨‍💼 Trabalho
 
-Atualmente estou trabalhando na <a href="https://www.controlid.com.br/" target="_blank">@controlid</a> como Suporte Técnico para Revendas
+Atualmente estou trabalhando na <a target="_blank" href="https://www.controlid.com.br/" >@controlid</a> como Suporte Técnico para Revendas
 
 ### 📚 Cursos
 
