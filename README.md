@@ -8,7 +8,7 @@ Python
 
 ### 👨‍💼 Trabalho
 
-Atualmente estou trabalhando na <a href="https://www.controlid.com.br/" target="_blank">@controlid</a> como Suporte Técnico para Revendas, com as seguintes atividades:
+Atualmente estou trabalhando na <a href="https://github.com/controlid">@controlid</a> como Suporte Técnico para Revendas, com as seguintes atividades:
 
 - Prestação de suporte para os softwares **IDSecure** e **IDSecure Cloud**
 - Manutenção e gerenciamento de bancos de dados em **MySQL** e **SQLite**
