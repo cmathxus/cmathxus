@@ -4,7 +4,6 @@
 
 Java <br/>
 C# <br/>
-Python
 
 ### 👨‍💼 Trabalho
 
