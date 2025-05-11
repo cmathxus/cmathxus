@@ -4,7 +4,6 @@
 
 Java <br/>
 C# <br/>
-.NET <br/>
 ASP.NET <br/>
 
 ### 👨‍💼 Trabalho
