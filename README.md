@@ -2,9 +2,9 @@
 
 ### 🖥️ - Atualmente estou estudando: 
 
-Java <br/>
 C# <br/>
 ASP.NET <br/>
+.NET <br/>
 
 ### 👨‍💼 Trabalho
 
