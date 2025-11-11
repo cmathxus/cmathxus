@@ -15,7 +15,7 @@ Atualmente estou trabalhando na <a href="https://github.com/controlid">@controli
 
 ### 📚 Cursos
 
-📕 Análise e desenvolvimento de sistemas (5/6)
+📕 Análise e desenvolvimento de sistemas (6/6)
 
 ### 📖 Tecnologias
 <div style="display: inline_block"><br/>
