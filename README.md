@@ -23,14 +23,13 @@ Atualmente estou trabalhando na <a href="https://github.com/controlid">@controli
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Chroma DB" src="https://img.shields.io/badge/Chroma-DB-orange?style=for-the-badge">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 ### 🔗 Projetos
 
-- [Chatbot ControlID](https://github.com/seu-usuario/chatbot-controlid) - Chatbot para suporte interno e revendas com integração futura com Google Chat API.  
+- [Rental Manager](https://github.com/cmathxus/rental-manager) - Aplicativo para gerenciar imóveis locados, contratos, proprietários e inquilinos.
 
 ### 📧 Contato
 
