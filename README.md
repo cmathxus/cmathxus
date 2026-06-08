@@ -1,37 +1,137 @@
-### 👋 Olá, sou o Caio Matheus
+# 👋 Olá, eu sou o Caio Matheus
 
-### 🖥️ Atualmente estou estudando: 
+Desenvolvedor Back-end .NET apaixonado por criar soluções que automatizam processos, integram sistemas e resolvem problemas reais.
 
-C# <br/>
-ASP.NET <br/>
-.NET <br/>
+Atualmente atuo na área de tecnologia trabalhando com APIs, bancos de dados, aplicações web e automações corporativas utilizando C# e ASP.NET Core.
 
-### 👨‍💼 Trabalho
+---
 
-Atualmente estou trabalhando na <a href="https://github.com/controlid">@controlid</a> como Suporte Técnico para Revendas, com as seguintes atividades:
+## 🚀 Sobre mim
 
-- Prestação de suporte para os softwares **IDSecure** e **IDSecure Cloud**
-- Manutenção e gerenciamento de bancos de dados em **MySQL**, **SQLite** e **Chroma DB**
+* 💻 Desenvolvedor Back-end focado em .NET
+* 🏢 Suporte Técnico para Revendas na Control iD
+* 🚀 Desenvolvedor Freelancer na YA Labs
+* 📚 Formado em Análise e Desenvolvimento de Sistemas
+* 🔍 Interesse em Arquitetura de Software, APIs, Cloud e Inteligência Artificial aplicada a processos de negócio
 
-### 📚 Cursos
+---
 
-📕 Análise e desenvolvimento de sistemas (6/6)
+## 💼 Experiência Profissional
 
-### 📖 Tecnologias
-<div style="display: inline_block"><br/>
-<img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
+### Control iD
 
-### 🔗 Projetos
+Atuação na área de suporte técnico para revendas, auxiliando na resolução de problemas e integrações dos produtos da empresa.
 
-- [Rental Manager](https://github.com/cmathxus/rental-manager) - Aplicativo para gerenciar imóveis locados, contratos, proprietários e inquilinos.
+Principais atividades:
 
-### 📧 Contato
+* Suporte para IDSecure e IDSecure Cloud
+* Investigação e análise de problemas técnicos
+* Integração entre sistemas
+* Administração e manutenção de bancos de dados
+* Manipulação de MySQL, SQLite e ChromaDB
+* Automação de processos internos
 
-<a href="https://www.linkedin.com/in/caio-matheus-b68977236/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:cmathxus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+### YA Labs
+
+Desenvolvimento de soluções sob demanda utilizando tecnologias Microsoft.
+
+Principais atividades:
+
+* Desenvolvimento de APIs REST
+* Aplicações Web com ASP.NET Core
+* Integrações entre sistemas
+* Automação de processos
+* Modelagem de banco de dados
+* Manutenção e evolução de aplicações
+
+---
+
+## 🛠️ Tecnologias
+
+### Back-end
+
+* C#
+* .NET
+* ASP.NET Core
+* Entity Framework Core
+* REST APIs
+* Worker Services
+
+### Banco de Dados
+
+* SQL Server
+* MySQL
+* SQLite
+* ChromaDB
+
+### Cloud & Ferramentas
+
+* Azure
+* AWS
+* Git
+* GitHub
+* Docker (estudando)
+
+---
+
+## 🚧 Projetos
+
+### 🔹 RmaWorker
+
+Sistema de automação para triagem de solicitações de RMA.
+
+Funcionalidades:
+
+* Leitura automatizada de solicitações
+* Integração com APIs corporativas
+* Validação de informações obrigatórias
+* Automação de processos internos
+* Integração com IA para análise de conteúdo
+
+🔗 https://github.com/ya-labs/RmaWorker
+
+---
+
+### 🔹 CADÊ O DANO
+
+Sistema desenvolvido para registro e acompanhamento de ocorrências e danos.
+
+🔗 https://github.com/ya-labs/CADE-O-DANO
+
+---
+
+### 🔹 Rental Manager
+
+Sistema para gerenciamento de imóveis locados.
+
+Funcionalidades:
+
+* Gestão de imóveis
+* Gestão de proprietários
+* Gestão de inquilinos
+* Controle de contratos
+
+🔗 https://github.com/cmathxus/rental-manager
+
+---
+
+## 📈 Atualmente estudando
+
+* Arquitetura de Software
+* ASP.NET Core
+* Clean Architecture
+* Design Patterns
+* Cloud Computing
+* Inteligência Artificial aplicada a sistemas corporativos
+
+---
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/caio-matheus-b68977236/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:cmathxus@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
